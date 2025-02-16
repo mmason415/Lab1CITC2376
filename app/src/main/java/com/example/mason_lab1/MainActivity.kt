@@ -75,7 +75,7 @@ fun myProfile(modifier: Modifier = Modifier){
         // Short biography
         Text(
             text = "Hello! My name is Makayla. My favorite things in life are reading books and spending time " +
-                    "with my cat stormy! I enjoy listening to music and pizza.",
+                    "with my cat stormy! I enjoy listening to music and watching Netflix. My favorite food is pizza",
             fontSize = 16.sp
         )
 
@@ -93,3 +93,4 @@ fun GreetingPreview() {
         myProfile()
     }
 }
+
